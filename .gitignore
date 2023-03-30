@@ -23,6 +23,9 @@ Homestead.json
 .phpunit.result.cache
 # assets/css/*
 # assets/libs/node_modules/*
-.vscode
 node_modules/
 assets/css/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
